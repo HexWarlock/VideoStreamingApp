@@ -6,4 +6,4 @@ obj/
 *.ldf
 appsettings.json
 appsettings.Development.json
-.vscode/
+.vs/

@@ -3,40 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Draz\\source\\repos\\VideoStreamingApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Draz\\source\\repos\\VideoStreamingApp\\VideoStreamingApp\\Migrations\\20240806132206_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VideoStreamingApp\\Migrations\\20240806132206_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F5DD180-843B-4B6A-BAFD-F275D0E76958}|VideoStreamingApp\\VideoStreamingApp.csproj|c:\\users\\draz\\source\\repos\\videostreamingapp\\videostreamingapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2F5DD180-843B-4B6A-BAFD-F275D0E76958}|VideoStreamingApp\\VideoStreamingApp.csproj|solutionrelative:videostreamingapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Draz\\source\\repos\\VideoStreamingApp\\VideoStreamingApp\\Migrations\\20240806123050_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VideoStreamingApp\\Migrations\\20240806123050_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F5DD180-843B-4B6A-BAFD-F275D0E76958}|VideoStreamingApp\\VideoStreamingApp.csproj|c:\\users\\draz\\source\\repos\\videostreamingapp\\videostreamingapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F5DD180-843B-4B6A-BAFD-F275D0E76958}|VideoStreamingApp\\VideoStreamingApp.csproj|solutionrelative:videostreamingapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2F5DD180-843B-4B6A-BAFD-F275D0E76958}|VideoStreamingApp\\VideoStreamingApp.csproj|c:\\users\\draz\\source\\repos\\videostreamingapp\\videostreamingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F5DD180-843B-4B6A-BAFD-F275D0E76958}|VideoStreamingApp\\VideoStreamingApp.csproj|solutionrelative:videostreamingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Draz\\source\\repos\\VideoStreamingApp\\VideoStreamingApp\\Migrations\\20240806113955_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VideoStreamingApp\\Migrations\\20240806113955_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F5DD180-843B-4B6A-BAFD-F275D0E76958}|VideoStreamingApp\\VideoStreamingApp.csproj|c:\\users\\draz\\source\\repos\\videostreamingapp\\videostreamingapp\\data\\roleinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F5DD180-843B-4B6A-BAFD-F275D0E76958}|VideoStreamingApp\\VideoStreamingApp.csproj|solutionrelative:videostreamingapp\\data\\roleinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F5DD180-843B-4B6A-BAFD-F275D0E76958}|VideoStreamingApp\\VideoStreamingApp.csproj|c:\\users\\draz\\source\\repos\\videostreamingapp\\videostreamingapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F5DD180-843B-4B6A-BAFD-F275D0E76958}|VideoStreamingApp\\VideoStreamingApp.csproj|solutionrelative:videostreamingapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F5DD180-843B-4B6A-BAFD-F275D0E76958}|VideoStreamingApp\\VideoStreamingApp.csproj|c:\\users\\draz\\source\\repos\\videostreamingapp\\videostreamingapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2F5DD180-843B-4B6A-BAFD-F275D0E76958}|VideoStreamingApp\\VideoStreamingApp.csproj|solutionrelative:videostreamingapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F5DD180-843B-4B6A-BAFD-F275D0E76958}|VideoStreamingApp\\VideoStreamingApp.csproj|c:\\users\\draz\\source\\repos\\videostreamingapp\\videostreamingapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2F5DD180-843B-4B6A-BAFD-F275D0E76958}|VideoStreamingApp\\VideoStreamingApp.csproj|solutionrelative:videostreamingapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2F5DD180-843B-4B6A-BAFD-F275D0E76958}|VideoStreamingApp\\VideoStreamingApp.csproj|c:\\users\\draz\\source\\repos\\videostreamingapp\\videostreamingapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2F5DD180-843B-4B6A-BAFD-F275D0E76958}|VideoStreamingApp\\VideoStreamingApp.csproj|solutionrelative:videostreamingapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,63 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20240806132206_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\Draz\\source\\repos\\VideoStreamingApp\\VideoStreamingApp\\Migrations\\20240806132206_InitialCreate.cs",
-              "RelativeDocumentMoniker": "VideoStreamingApp\\Migrations\\20240806132206_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\Draz\\source\\repos\\VideoStreamingApp\\VideoStreamingApp\\Migrations\\20240806132206_InitialCreate.cs",
-              "RelativeToolTip": "VideoStreamingApp\\Migrations\\20240806132206_InitialCreate.cs",
-              "ViewState": "AQIAANAAAAAAAAAAAAAiwOgAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T13:22:06.956Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20240806123050_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\Draz\\source\\repos\\VideoStreamingApp\\VideoStreamingApp\\Migrations\\20240806123050_InitialCreate.cs",
-              "RelativeDocumentMoniker": "VideoStreamingApp\\Migrations\\20240806123050_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\Draz\\source\\repos\\VideoStreamingApp\\VideoStreamingApp\\Migrations\\20240806123050_InitialCreate.cs",
-              "RelativeToolTip": "VideoStreamingApp\\Migrations\\20240806123050_InitialCreate.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T12:30:50.475Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20240806113955_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\Draz\\source\\repos\\VideoStreamingApp\\VideoStreamingApp\\Migrations\\20240806113955_InitialCreate.cs",
-              "RelativeDocumentMoniker": "VideoStreamingApp\\Migrations\\20240806113955_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\Draz\\source\\repos\\VideoStreamingApp\\VideoStreamingApp\\Migrations\\20240806113955_InitialCreate.cs",
-              "RelativeToolTip": "VideoStreamingApp\\Migrations\\20240806113955_InitialCreate.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T11:39:56.151Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "RoleInitializer.cs",
-              "DocumentMoniker": "C:\\Users\\Draz\\source\\repos\\VideoStreamingApp\\VideoStreamingApp\\Data\\RoleInitializer.cs",
-              "RelativeDocumentMoniker": "VideoStreamingApp\\Data\\RoleInitializer.cs",
-              "ToolTip": "C:\\Users\\Draz\\source\\repos\\VideoStreamingApp\\VideoStreamingApp\\Data\\RoleInitializer.cs",
-              "RelativeToolTip": "VideoStreamingApp\\Data\\RoleInitializer.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAAD0AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T11:12:13.238Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Draz\\source\\repos\\VideoStreamingApp\\VideoStreamingApp\\Program.cs",
               "RelativeDocumentMoniker": "VideoStreamingApp\\Program.cs",
@@ -115,7 +39,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Draz\\source\\repos\\VideoStreamingApp\\VideoStreamingApp\\appsettings.json",
               "RelativeDocumentMoniker": "VideoStreamingApp\\appsettings.json",
@@ -123,44 +47,20 @@
               "RelativeToolTip": "VideoStreamingApp\\appsettings.json",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAIAAACHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-06T10:17:49.772Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T10:17:49.772Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Draz\\source\\repos\\VideoStreamingApp\\VideoStreamingApp\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "VideoStreamingApp\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\Draz\\source\\repos\\VideoStreamingApp\\VideoStreamingApp\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "VideoStreamingApp\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-02T04:02:36.379Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Draz\\source\\repos\\VideoStreamingApp\\VideoStreamingApp\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "VideoStreamingApp\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Draz\\source\\repos\\VideoStreamingApp\\VideoStreamingApp\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "VideoStreamingApp\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T04:02:21.506Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Draz\\source\\repos\\VideoStreamingApp\\VideoStreamingApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "VideoStreamingApp\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Draz\\source\\repos\\VideoStreamingApp\\VideoStreamingApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "VideoStreamingApp\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAADAAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-02T02:54:54.66Z"
+              "WhenOpened": "2024-08-02T04:02:36.379Z",
+              "EditorCaption": ""
             }
           ]
         }

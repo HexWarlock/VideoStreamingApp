@@ -48,6 +48,7 @@ namespace VideoStreamingApp.Data
                 }
             }
         }
+
         public static async Task ClearUserData(IServiceProvider serviceProvider)
         {
             using var scope = serviceProvider.CreateScope();
@@ -62,4 +63,3 @@ namespace VideoStreamingApp.Data
         }
     }
 }
-               
