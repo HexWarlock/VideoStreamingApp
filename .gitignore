@@ -1,0 +1,9 @@
+# ASP.NET Core
+bin/
+obj/
+*.db
+*.mdf
+*.ldf
+appsettings.json
+appsettings.Development.json
+.vscode/
