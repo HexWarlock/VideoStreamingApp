@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Draz\\source\\repos\\VideoStreamingApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2F5DD180-843B-4B6A-BAFD-F275D0E76958}|VideoStreamingApp\\VideoStreamingApp.csproj|c:\\users\\draz\\source\\repos\\videostreamingapp\\videostreamingapp\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F5DD180-843B-4B6A-BAFD-F275D0E76958}|VideoStreamingApp\\VideoStreamingApp.csproj|solutionrelative:videostreamingapp\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5DD180-843B-4B6A-BAFD-F275D0E76958}|VideoStreamingApp\\VideoStreamingApp.csproj|c:\\users\\draz\\source\\repos\\videostreamingapp\\videostreamingapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F5DD180-843B-4B6A-BAFD-F275D0E76958}|VideoStreamingApp\\VideoStreamingApp.csproj|solutionrelative:videostreamingapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2F5DD180-843B-4B6A-BAFD-F275D0E76958}|VideoStreamingApp\\VideoStreamingApp.csproj|c:\\users\\draz\\source\\repos\\videostreamingapp\\videostreamingapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2F5DD180-843B-4B6A-BAFD-F275D0E76958}|VideoStreamingApp\\VideoStreamingApp.csproj|solutionrelative:videostreamingapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5DD180-843B-4B6A-BAFD-F275D0E76958}|VideoStreamingApp\\VideoStreamingApp.csproj|c:\\users\\draz\\source\\repos\\videostreamingapp\\videostreamingapp\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F5DD180-843B-4B6A-BAFD-F275D0E76958}|VideoStreamingApp\\VideoStreamingApp.csproj|solutionrelative:videostreamingapp\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5DD180-843B-4B6A-BAFD-F275D0E76958}|VideoStreamingApp\\VideoStreamingApp.csproj|c:\\users\\draz\\source\\repos\\videostreamingapp\\videostreamingapp\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F5DD180-843B-4B6A-BAFD-F275D0E76958}|VideoStreamingApp\\VideoStreamingApp.csproj|solutionrelative:videostreamingapp\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5DD180-843B-4B6A-BAFD-F275D0E76958}|VideoStreamingApp\\VideoStreamingApp.csproj|c:\\users\\draz\\source\\repos\\videostreamingapp\\videostreamingapp\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2F5DD180-843B-4B6A-BAFD-F275D0E76958}|VideoStreamingApp\\VideoStreamingApp.csproj|solutionrelative:videostreamingapp\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2F5DD180-843B-4B6A-BAFD-F275D0E76958}|VideoStreamingApp\\VideoStreamingApp.csproj|c:\\users\\draz\\source\\repos\\videostreamingapp\\videostreamingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,42 +42,108 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Draz\\source\\repos\\VideoStreamingApp\\VideoStreamingApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "VideoStreamingApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Draz\\source\\repos\\VideoStreamingApp\\VideoStreamingApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "VideoStreamingApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T07:38:09.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Draz\\source\\repos\\VideoStreamingApp\\VideoStreamingApp\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "VideoStreamingApp\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "C:\\Users\\Draz\\source\\repos\\VideoStreamingApp\\VideoStreamingApp\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "VideoStreamingApp\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAqwA4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T07:16:33.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Draz\\source\\repos\\VideoStreamingApp\\VideoStreamingApp\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "VideoStreamingApp\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\Draz\\source\\repos\\VideoStreamingApp\\VideoStreamingApp\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "VideoStreamingApp\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAwAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T07:16:16.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\Draz\\source\\repos\\VideoStreamingApp\\VideoStreamingApp\\wwwroot\\css\\styles.css",
+              "RelativeDocumentMoniker": "VideoStreamingApp\\wwwroot\\css\\styles.css",
+              "ToolTip": "C:\\Users\\Draz\\source\\repos\\VideoStreamingApp\\VideoStreamingApp\\wwwroot\\css\\styles.css",
+              "RelativeToolTip": "VideoStreamingApp\\wwwroot\\css\\styles.css",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAswDAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-08T05:53:20.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Draz\\source\\repos\\VideoStreamingApp\\VideoStreamingApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "VideoStreamingApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Draz\\source\\repos\\VideoStreamingApp\\VideoStreamingApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "VideoStreamingApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T05:47:46.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Draz\\source\\repos\\VideoStreamingApp\\VideoStreamingApp\\Program.cs",
               "RelativeDocumentMoniker": "VideoStreamingApp\\Program.cs",
               "ToolTip": "C:\\Users\\Draz\\source\\repos\\VideoStreamingApp\\VideoStreamingApp\\Program.cs",
               "RelativeToolTip": "VideoStreamingApp\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-06T10:55:27.462Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Draz\\source\\repos\\VideoStreamingApp\\VideoStreamingApp\\appsettings.json",
               "RelativeDocumentMoniker": "VideoStreamingApp\\appsettings.json",
               "ToolTip": "C:\\Users\\Draz\\source\\repos\\VideoStreamingApp\\VideoStreamingApp\\appsettings.json",
               "RelativeToolTip": "VideoStreamingApp\\appsettings.json",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAIAAACHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAIAAACHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-06T10:17:49.772Z"
+              "WhenOpened": "2024-08-06T10:17:49.772Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Draz\\source\\repos\\VideoStreamingApp\\VideoStreamingApp\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "VideoStreamingApp\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\Draz\\source\\repos\\VideoStreamingApp\\VideoStreamingApp\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "VideoStreamingApp\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAdAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-02T04:02:36.379Z",
               "EditorCaption": ""

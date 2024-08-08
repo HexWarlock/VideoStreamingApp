@@ -1,6 +1,22 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "BBOPTV PLUS - Watch, Enjoy";
 }
 
-<h1>Welcome to B-Bop TV</h1>
-<p>Your Christian movie & video streaming platform</p>
+<div class="overlay"></div>
+<div class="content-wrapper">
+    <div class="container text-center mt-5 pt-5">
+        <h1>Home Of Streaming Entertainment</h1>
+        <div class="mt-4 button-container">
+            <button class="btn btn-custom mb-2">Pre-Subscription</button>
+            <button class="btn btn-custom mb-2">Vacancies</button>
+            <button class="btn btn-custom mb-2">Investment</button>
+            <button class="btn btn-custom mb-2">Submit TV Show/Movie</button>
+        </div>
+        <h2 class="mt-5">B Bop TV Plus will be live in</h2>
+        <div class="countdown mt-3" id="countdown"></div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="~/js/script.js"></script>
+}
